@@ -20,10 +20,10 @@ GPIO.output(LED, GPIO.LOW)
 
 
 # Twitter application authentication
-APP_KEY = 'MKR7NReTtW98wALhpq3S87twq'
-APP_SECRET = '6Gp7Gj5GhPWxrYyM2P9uzSxnNJ11CNQbrlpLJlwAyG8jXHDmLr'
-OAUTH_TOKEN = '990537949736562688-eGMO0rCCn8QUx1XyRtrqD2b6qdoVgbB'
-OAUTH_TOKEN_SECRET = 'me93sVuNnrpNA9ojpcu3W9flrOkaNFz4ed3vJqQvagJgh'
+APP_KEY = 'xxxxxxxxxxxxxxxxx'
+APP_SECRET = 'xxxxxxxxxxxxxxx'
+OAUTH_TOKEN = 'xxxxxxxxxxxxxxxxxxB'
+OAUTH_TOKEN_SECRET = 'xxxxxxxxxxxxxxxxxxxxxx'
 
 # Setup callbacks from Twython Streamer
 class BlinkyStreamer(TwythonStreamer):
